@@ -1,0 +1,9 @@
+[
+  {
+    "name": "unstable",
+    "version": "unstable",
+    "url": "https://acosmicflamingo.github.io/cccl/unstable/",
+    "latest": true,
+    "preferred": true
+  }
+]
